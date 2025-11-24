@@ -1,0 +1,24 @@
+{
+  "name": "awesome-doc",
+  "version": "1.0.0",
+  "description": "Modern documentation system for console applications with interactive visualizations and integration diagrams",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:35596/git/SteffenVetrhus/awesome-doc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vueuse/core": "^14.0.0",
+    "cytoscape": "^3.33.1",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.25"
+  }
+}

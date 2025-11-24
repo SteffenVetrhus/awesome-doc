@@ -21,4 +21,16 @@ After your solution, rate your confidence (0-1) on:
 - Uniqueness
 If any score < 0.9, refine your answer.
 [TASK]
-Design and implement a unique, modern  beautiful and usefull application with [your requirements]
+Design and implement a unique, modern beautiful and useful application with [your requirements]
+
+## Current Task: Console Applications Documentation System
+
+**Requirements:**
+- Documentation system for 20+ console applications (and growing)
+- Easy-to-maintain documentation format
+- Visual representation of app connections and data flows
+- One app may output files that another app consumes
+- Clear integration documentation
+- Modern, visually appealing UI/UX
+- Search and navigation functionality
+- Scalable architecture for future growth
